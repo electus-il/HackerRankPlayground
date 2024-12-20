@@ -1,0 +1,14 @@
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/bin/Debug/net9.0/HackerRankPlayground
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/bin/Debug/net9.0/HackerRankPlayground.deps.json
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/bin/Debug/net9.0/HackerRankPlayground.runtimeconfig.json
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/bin/Debug/net9.0/HackerRankPlayground.dll
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/bin/Debug/net9.0/HackerRankPlayground.pdb
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.AssemblyInfoInputs.cache
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.AssemblyInfo.cs
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.csproj.CoreCompileInputs.cache
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.dll
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/refint/HackerRankPlayground.dll
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.pdb
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/HackerRankPlayground.genruntimeconfig.cache
+/Users/mustafa/RiderProjects/HackerRankPlayground/HackerRankPlayground/obj/Debug/net9.0/ref/HackerRankPlayground.dll
